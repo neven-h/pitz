@@ -1,3 +1,5 @@
+# File made by dany shannan from the website: https://1-1i.com/
+
 from PIL import Image
 import random
 import math
